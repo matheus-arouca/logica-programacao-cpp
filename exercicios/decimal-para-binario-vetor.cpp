@@ -1,5 +1,5 @@
 /*
-Exercício 5 - Conversão de decimal para binário com vetor
+ Conversão de decimal para binário com vetor
 
 Enunciado:
 Criar um vetor A de 15 elementos.
