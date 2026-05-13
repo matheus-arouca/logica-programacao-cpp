@@ -1,5 +1,5 @@
 /*
-Exercício 4 - Termo da posição informada da série de Fibonacci
+- Termo da posição informada da série de Fibonacci
 
 Enunciado:
 Solicitar ao usuário uma posição da série de Fibonacci.
