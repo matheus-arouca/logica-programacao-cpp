@@ -1,5 +1,5 @@
 /*
-Exercício 6 - Tabuada com vetor e matriz
+ Tabuada com vetor e matriz
 
 Enunciado:
 Criar um vetor de 10 elementos e uma matriz de 10 linhas por 10 colunas.
